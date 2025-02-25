@@ -1,0 +1,12 @@
+
+------------------------------------------------------------
+Project ':app1'
+------------------------------------------------------------
+
+compileClasspath - Compile classpath for source set 'main'.
+\--- project :app-base
+
+testCompileClasspath - Compile classpath for source set 'test'.
+\--- project :app-base
+
+A web-based, searchable dependency report is available by adding the --scan option.

@@ -1,0 +1,12 @@
+
+------------------------------------------------------------
+Project ':test-base'
+------------------------------------------------------------
+
+compileClasspath - Compile classpath for source set 'main'.
+\--- org.opentest4j:opentest4j:1.3.0
+
+testCompileClasspath - Compile classpath for source set 'test'.
+\--- org.opentest4j:opentest4j:1.3.0
+
+A web-based, searchable dependency report is available by adding the --scan option.
