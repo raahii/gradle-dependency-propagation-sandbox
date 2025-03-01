@@ -3,4 +3,5 @@ plugins {
 }
 
 dependencies {
+  testFixturesApi(testFixtures(projects.testBase))
 }

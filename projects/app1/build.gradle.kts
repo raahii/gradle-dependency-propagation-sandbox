@@ -4,4 +4,5 @@ plugins {
 
 dependencies {
   implementation(projects.appBase)
+  testImplementation(testFixtures(projects.appBase))
 }
